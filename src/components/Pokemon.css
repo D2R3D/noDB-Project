@@ -1,0 +1,47 @@
+.pokemon{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background: pink;
+}
+
+
+.poke-header {
+    height:25vh;
+    width: 100vw;
+    background: pink;
+
+
+}
+
+.pokedex{
+    height: 4vh;
+    width: 40vw;
+    display: flex;
+    justify-content: space-around;
+
+   }
+
+
+.poke-box {
+    width: 450px;
+    height: 325px;
+    border: solid white 5px;
+    margin: 20px;
+    background: rgb(214, 6, 6);
+
+}
+
+.poke-box img {
+    width: 200px;
+    height: 175px;
+    border: solid black;
+    margin-left: 20px;
+    margin-right: 20px;
+    background: white;
+
+   
+}
+
