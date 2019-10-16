@@ -3,10 +3,10 @@
 
 let pokemon = [
     {id: 1,
-    name: "Pikachu",
-    type: "Electri",
-    nickName:"Shockers",
-    image: 'https://img.pokemondb.net/artwork/large/pikachu-lets-go.jpg'
+    name: "Venusaur",
+    type: "Grass",
+    nickName:"Lawnmower",
+    image: 'https://pm1.narvii.com/5729/a8c9aad31f65782206ddc85ec9db29571ca08cc0_hq.jpg'
     },
     {
     id: 2,

@@ -28,9 +28,10 @@
 .poke-box {
     width: 450px;
     height: 325px;
-    border: solid white 5px;
+    border: solid black 5px;
     margin: 20px;
     background: rgb(214, 6, 6);
+    color: white;
 
 }
 

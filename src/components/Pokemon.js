@@ -54,8 +54,8 @@ export default class Pokemon extends Component {
     })
     }
 
-    addPokemon =(event) => {
-      event.preventDefault();
+    addPokemon =() => {
+    
 
       const {name, type, image, nickName} = this.state;
   
